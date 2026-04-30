@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1776166779082,
+    "name": "Test",
+    "email": "test@test.com",
+    "message": "Probando",
+    "date": "2026-04-14T11:39:39.082Z",
+    "status": "new"
+  },
+  {
+    "id": 1776167343115,
+    "name": "Test",
+    "email": "test@test.com",
+    "message": "Probando servidor",
+    "date": "2026-04-14T11:49:03.115Z",
+    "status": "new"
+  },
+  {
+    "id": 1776167614967,
+    "name": "Ariadna",
+    "email": "ariadnaramostorres@gmail.com",
+    "message": "a",
+    "date": "2026-04-14T11:53:34.967Z",
+    "status": "new"
+  }
+]
